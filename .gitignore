@@ -1,4 +1,17 @@
+.DS_Store
+
+.project
+.buildpath
+.settings
+
+
+
+
+
 # Build and Release Folders
+
+
+
 bin/
 bin-debug/
 bin-release/
